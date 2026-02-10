@@ -5,7 +5,7 @@ You should already have made an account on [GitHub](https://github.com/) and dow
 
 ## 1. Fork
 
-*Forking* refers to the act of creating your personal copy of an existing body of code. You can then modify your *fork* as you wish. Forking is a great way to make use of templates and other resources upon which you can build. For example, you'll soon fork a template for your website, which you'll then populate and customize. 
+*Forking* refers to the act of creating your personal copy of an existing body of code. You can then modify your *fork* as you wish. Forking is a great way to make use of templates and other resources upon which you can build. For example, you'll sdfhgfhghfoon fork a template for your website, which you'll then populate and customize. 
 
 Go ahead and fork this repo, using the "Fork" button at in the top-right corner. 
 
